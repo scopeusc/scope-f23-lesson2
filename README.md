@@ -8,7 +8,7 @@
    
    ![Screenshot from 2023-06-28 01-13-53](https://github.com/scopeusc/scope-f23-lesson2/assets/24983943/2e29e9cd-f0c6-4572-90e1-1bb3bc5a8a82)
 
-4. Select Project: `scope-f23-lesson2 -> Python Interpreter`
+4. Select `Project: scope-f23-lesson2 -> Python Interpreter`
 
 ![Screenshot from 2023-06-28 01-17-34](https://github.com/scopeusc/scope-f23-lesson2/assets/24983943/9e80509f-5e0d-4b69-a05f-f429786423da)
 
