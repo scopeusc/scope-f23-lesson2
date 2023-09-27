@@ -6,7 +6,7 @@
 2. Open the `scope-f23-lesson2` folder in PyCharm
 3. Click on `file -> settings`
    
-   ![Screenshot from 2023-06-28 01-13-53](https://github.com/scopeusc/scope-f23-lesson2/assets/24983943/2e29e9cd-f0c6-4572-90e1-1bb3bc5a8a82)
+![Screenshot from 2023-06-28 01-13-53](https://github.com/scopeusc/scope-f23-lesson2/assets/24983943/2e29e9cd-f0c6-4572-90e1-1bb3bc5a8a82)
 
 4. Select `Project: scope-f23-lesson2 -> Python Interpreter`
 
